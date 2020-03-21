@@ -2,7 +2,7 @@
 
 A comprehensive horse racing simulator application for people who love to play simple game online!
 
-### Live Demo URL: http://horse-racing.xtremeonecoder.com/
+### Live Demo URL: [Click Here to See The Live Demo](http://horse-racing.xtremeonecoder.com)
 
 ## How to Play:
 
